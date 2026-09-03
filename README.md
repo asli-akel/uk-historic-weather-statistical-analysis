@@ -1,4 +1,4 @@
-# Statistical Analysis of UK Historic Weather
+# Time Series Modelling & Forecasting (UK Climate Data)
 
 A reproducible statistical investigation of long-term temperature and air-frost patterns across **37 UK weather stations**, using monthly records published by the UK Met Office.
 
@@ -78,4 +78,3 @@ The frost analysis constructs observed frost and non-frost day counts from each 
 Data source: UK Met Office, [Historic station data](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data).
 
 The Met Office describes the files as monthly series containing mean daily maximum and minimum temperature, air-frost days, rainfall, and sunshine duration. The repository preserves the small CSV extracts used for reproducibility and attributes the Met Office as the source. Review the [Met Office legal and licensing information](https://www.metoffice.gov.uk/policies/legal) before reuse.
-
